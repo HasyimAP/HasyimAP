@@ -1,16 +1,43 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400px"/>
+</div>
 
-<!--
-**HasyimAP/HasyimAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=2CFF00&background=000000&vCenter=true&width=500&lines=Heyy!!!...+My+Name+is+Hasyim;a+Telecommunication+Engineering+Student;I'm+from+Bali%2C+Indonesia;and+I+love+learning+a+lot+of+things)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :man_student: Hello everyone... My full name is Muhammad Hasyim Abdillah Pronosumarto, but please kindly call me **Hasyim**.
+- :school: Right now I'm studying at **Telkom University**, Bandung.
+- :books: I like to learn a lot of things, especially when it comes to technology
+- :technologist: I started to learn coding at university and still learning until now
+- :video_game: My favorite game is Dota 2
+- 💬 You can ask about anything, but don't blame if I can't answer everythings
+
+<img src="https://media.giphy.com/media/jWUIRFLxxZDzxBrN9G/giphy.gif" width="20px"> My GitHub Statistics <img src="https://media.giphy.com/media/jWUIRFLxxZDzxBrN9G/giphy.gif" width="20px">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=HasyimAP&show_icons=true&theme=radical" height="200px"></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=HasyimAP&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" height="200px"></p>
+
+<br><br><br><br><br><br><br><br>
+
+<hr>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=HasyimAP&theme=react-dark&hide_border=true&area=true)
+
+<hr>
+<h3 align="center"><img src="https://media.giphy.com/media/dXRrE7Nn5BcN8YXRzE/giphy.gif" height="40px"> How to reach me <img src="https://media.giphy.com/media/dXRrE7Nn5BcN8YXRzE/giphy.gif" height="40px"></h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasyim-abdillah-391079237/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="100px">
+  </a>
+  
+  <a href="https://www.instagram.com/hasyim2051/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" heigth="100px">
+  </a>
+  
+  <a href="mailto:abdillahpronosumarto@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" height="100px">
+  </a>
+</p>
