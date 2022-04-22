@@ -15,9 +15,9 @@
 
 <img src="https://media.giphy.com/media/jWUIRFLxxZDzxBrN9G/giphy.gif" width="20px"> My GitHub Statistics <img src="https://media.giphy.com/media/jWUIRFLxxZDzxBrN9G/giphy.gif" width="20px">
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=HasyimAP&show_icons=true&theme=radical" height="150px"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=HasyimAP&show_icons=true&theme=radical" height="200px"></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasyimAP&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" height="150px"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasyimAP&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" height="200px"></p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=HasyimAP&theme=react-dark&hide_border=true&area=true)
 
