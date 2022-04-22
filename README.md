@@ -11,7 +11,7 @@
 - :books: I like to learn a lot of things, especially when it comes to technology
 - :technologist: I started to learn coding at university and still learning until now
 - :video_game: My favorite game is Dota 2
-- 💬 You can ask about anything, but don't blame if I can't answer everythings
+- 💬 You can ask about anything, but don't blame me if I can't answer everythings
 
 <img src="https://media.giphy.com/media/jWUIRFLxxZDzxBrN9G/giphy.gif" width="20px"> My GitHub Statistics <img src="https://media.giphy.com/media/jWUIRFLxxZDzxBrN9G/giphy.gif" width="20px">
 
