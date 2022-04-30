@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400px"/>
 </div>
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=2CFF00&background=000000&vCenter=true&width=500&lines=Heyy!!!...+My+Name+is+Hasyim;a+Telecommunication+Engineering+Student;I'm+from+Bali%2C+Indonesia;and+I+love+learning+a+lot+of+things)](https://git.io/typing-svg)
 
 - :man_student: Hello everyone... My full name is Muhammad Hasyim Abdillah Pronosumarto, but please kindly call me **Hasyim**.
