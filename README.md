@@ -34,4 +34,8 @@ My GitHub Statistics
   <a href="mailto:abdillahpronosumarto@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" height="100px">
   </a>
+  
+  <a href="https://www.kaggle.com/hasyimabdillah">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" height="100px">
+  </a>
 </p>
