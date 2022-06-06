@@ -11,7 +11,7 @@
 - :video_game: My favorite game is Dota 2
 - 💬 You can ask about anything, but don't blame me if I can't answer everythings
 
-My GitHub Statistics
+**My GitHub Statistics**
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=HasyimAP&show_icons=true&theme=radical" height="200px"></p>
 
