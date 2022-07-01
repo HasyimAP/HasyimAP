@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=2CFF00&background=000000&vCenter=true&width=500&lines=Heyy!!!...+My+Name+is+Hasyim;a+Telecommunication+Engineering+Student;I'm+from+Bali%2C+Indonesia;and+I+love+learning+a+lot+of+things)](https://git.io/typing-svg)
 
 - :man_student: Hello everyone... My full name is Muhammad Hasyim Abdillah Pronosumarto, but please kindly call me **Hasyim**.
+- :indonesia: My nationality is Indonesia, but I can also speak in English
 - :school: Right now I'm studying at **Telkom University**, Bandung.
 - :books: I like to learn a lot of things, especially when it comes to technology
 - :technologist: I started to learn coding at university and still learning until now
