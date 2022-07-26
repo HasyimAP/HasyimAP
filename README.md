@@ -21,7 +21,7 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=HasyimAP&theme=react-dark&hide_border=true&area=true)
 
 <hr>
-<h3 align="center"><img src="https://media.giphy.com/media/dXRrE7Nn5BcN8YXRzE/giphy.gif" height="40px"> How to reach me <img src="https://media.giphy.com/media/dXRrE7Nn5BcN8YXRzE/giphy.gif" height="40px"></h3>
+<h3 align="center"><img src="https://media.giphy.com/media/dXRrE7Nn5BcN8YXRzE/giphy.gif" height="40px"> The other me <img src="https://media.giphy.com/media/dXRrE7Nn5BcN8YXRzE/giphy.gif" height="40px"></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hasyim-abdillah-391079237/">
