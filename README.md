@@ -24,9 +24,9 @@
 <h3 align="center"><img src="https://media.giphy.com/media/dXRrE7Nn5BcN8YXRzE/giphy.gif" height="40px"> The other me <img src="https://media.giphy.com/media/dXRrE7Nn5BcN8YXRzE/giphy.gif" height="40px"></h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasyim-abdillah-391079237/">
+<!--   <a href="https://www.linkedin.com/in/hasyim-abdillah-391079237/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="100px">
-  </a>
+  </a> -->
   
   <a href="https://www.instagram.com/hasyim2051/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" heigth="100px">
